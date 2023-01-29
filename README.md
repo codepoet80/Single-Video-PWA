@@ -8,4 +8,4 @@ To help her, we installed Nova Launcher, hid unused icons, and made remaining on
 
 When launched (or re-launched), the PWA determines if its been at least 12 hours since it was last visible (sometimes she falls asleep, and needs to resume watching the video hours later). If less than 12 hours, it resumes. If more than 12 hours, it reloads, where a little cache-busting ensures the video is refreshed. Because Chrome will autoplay videos in an installed PWA, its literally a single tap, and she can watch the video.
 
-I've generalized it a little, since this can be used for any periodically updated video.
+I've generalized it a little, since this can be used for any periodically updated video. To use, you'll need to provide your own icons and video.
